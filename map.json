@@ -118,7 +118,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiMeeting",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"Weekend-Kitchen"
                 }],
@@ -136,7 +136,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiMeet",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"Weekend-Balcony"
                 }],
@@ -154,7 +154,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiMeet",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"Weekend-Bullpen"
                 }],
