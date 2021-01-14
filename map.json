@@ -102,7 +102,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/Weekend-Meeting-Room"
+                 "value":"Weekend-Meeting-Room"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -120,7 +120,7 @@
                 {
                  "name":"jitsiMeeting",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/Weekend-Kitchen"
+                 "value":"Weekend-Kitchen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -136,9 +136,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"https:\/\/meet.jit.si\/Weekend-Balcony",
+                 "name":"jitsiMeet",
                  "type":"string",
-                 "value":""
+                 "value":"Weekend-Balcony"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -156,7 +156,7 @@
                 {
                  "name":"jitsiMeet",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/Weekend-Bullpen"
+                 "value":"Weekend-Bullpen"
                 }],
          "type":"tilelayer",
          "visible":true,
